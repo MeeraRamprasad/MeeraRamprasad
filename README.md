@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeeraRamprasad
+- 👋 Hi, I’m Meera!
 - 👀 I’m interested in Analogue VLSI and RF Circuit Design.
 
 <!---
